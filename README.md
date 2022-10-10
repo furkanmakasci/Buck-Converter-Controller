@@ -5,4 +5,6 @@ Analog Buck Converter Controller with Current Limiting Feature
 
 Drive part is up to you...
 
+I want to implement a part for synchronous buck later..
+
 ![](buck-controller.jpg)
