@@ -5,4 +5,4 @@ Analog Buck Converter Controller with Current Limiting Feature
 
 Drive part is up to you...
 
-![](buck-controller.jpg)
+![Nonsynchronous Analog Buck Converter Controller with Current Limiting Feature](buck-controller.jpg)
