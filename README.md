@@ -1,5 +1,5 @@
 # Buck-Converter-Controller
-Look the asynchronous buck converter type 2 compensator which my 2nd attemp of designing a buck converter after this project, has worse efficiency than XL4016 modules which 15Vto2V %67-75, 15Vto5V %80-95. Also, it has better regulation than XL4016 modules.
+Look the asynchronous buck converter type 2 compensator schematic which my 2nd attemp of designing a buck converter after this project, has worse efficiency than XL4016 modules which 15Vto2V %67-75, 15Vto5V %80-95. Also, it has better regulation than XL4016 modules.
 
 Analog Buck Converter Controller with Current Limiting Feature
 
