@@ -7,6 +7,4 @@ Analog Buck Converter Controller with Current Limiting Feature
 
 Drive part is up to you, also you can add a derivative control part. It was good enough for my application...
 
-I want to implement a part for synchronous buck later..
-
 ![](buck-controller.jpg)
